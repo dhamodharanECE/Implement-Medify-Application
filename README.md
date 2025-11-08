@@ -209,10 +209,16 @@ Designing responsive UIs using CSS and MUI
 ```bash
 https://github.com/dhamodharanECE/Implement-Medify-Application.git
 ```
-
+```
+npm install
+```
+```
+npm start
+```
 ## 👨‍💻 **Author**
 
 **Dhamodharan S**  
+
 Full Stack Web Developer | Passionate about building pixel-perfect and responsive web apps  
 
 📧 Email: 
@@ -224,6 +230,6 @@ dhamodharans206@gmail.com
 This checklist and guide are open source and available under the [MIT License](LICENSE).
 
 # Deployment Link:
-```bash
+
+```
 https://implement-medify-application.vercel.app/
----
